@@ -1,0 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper form input:hover, .wrapper form option:hover{
+    border: solid #7ed6df;
+}
